@@ -1,15 +1,15 @@
 <?php
-    $host = '127.0.0.1';
-    $db = 'udrive_db';
-    $user = 'root';
-    $pass= '';
-    $charset = 'utf8mb4';
-
-    // $host = 'remotemysql.com';
-    // $db = 'Jc4Cc2q4gX';
-    // $user = 'Jc4Cc2q4gX';
-    // $pass= 'nhqMxbQDsK';
+    // $host = '127.0.0.1';
+    // $db = 'udrive_db';
+    // $user = 'root';
+    // $pass= '';
     // $charset = 'utf8mb4';
+
+    $host = 'remotemysql.com';
+    $db = 'IY25LKGGny';
+    $user = 'IY25LKGGny';
+    $pass= 'iwrpYcV4gW';
+    $charset = 'utf8mb4';
 
     $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
 
